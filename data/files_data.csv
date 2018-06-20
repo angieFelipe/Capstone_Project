@@ -1,0 +1,4 @@
+originalfiles,trainfiles,testfiles,total,nsample,maxlen
+./final/en_US/en_US.blogs.txt,./train/tren_US.blogs.txt,./test/tten_US.blogs.txt,899288,90,0
+./final/en_US/en_US.news.txt,./train/tren_US.news.txt,./test/tten_US.news.txt,1010242,101,0
+./final/en_US/en_US.twitter.txt,./train/tren_US.twitter.txt,./test/tten_US.twitter.txt,2360148,236,0
