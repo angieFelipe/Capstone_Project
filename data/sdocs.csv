@@ -1,0 +1,4 @@
+Text,Types,Sentences,Lines,maxlen,avglen
+tren_US.blogs.txt,1442,243,90,1167,218.1888888888889
+tren_US.news.txt,1810,204,101,649,216.95049504950495
+tren_US.twitter.txt,1419,267,236,140,67.84745762711864

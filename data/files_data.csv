@@ -1,4 +1,4 @@
-originalfiles,trainfiles,testfiles,total,nsample,maxlen
-./final/en_US/en_US.blogs.txt,./train/tren_US.blogs.txt,./test/tten_US.blogs.txt,899288,90,0
-./final/en_US/en_US.news.txt,./train/tren_US.news.txt,./test/tten_US.news.txt,1010242,101,0
-./final/en_US/en_US.twitter.txt,./train/tren_US.twitter.txt,./test/tten_US.twitter.txt,2360148,236,0
+originalfiles,trainfiles,testfiles,total,nsample,maxlen,avglen,travglen,trmaxlen
+./final/en_US/en_US.blogs.txt,./train/tren_US.blogs.txt,./test/tten_US.blogs.txt,899288,90,40833,229.9869507877343,218.1888888888889,1167
+./final/en_US/en_US.news.txt,./train/tren_US.news.txt,./test/tten_US.news.txt,1010242,101,11384,201.1628490995227,216.95049504950495,649
+./final/en_US/en_US.twitter.txt,./train/tren_US.twitter.txt,./test/tten_US.twitter.txt,2360148,236,140,68.6804518191232,67.84745762711864,140
